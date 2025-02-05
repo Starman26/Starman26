@@ -1,13 +1,21 @@
-👋 Hello, I'm Leonardo Andrade 
-I'm a  Mechatronics Engineering student at Tecnológico de Monterrey, passionate about combining mechanics, electronics, and programming to solve real-world challenges. 
+# Hello, I'm Leonardo Andrade  
 
-🌟 Interests: Robotics, artificial intelligence,IOT, and automation systems.
-🔧 Skills: Proficient in [Python,CSS,HTML,C++,Matlab ], and experienced in designing and building embedded systems.
-🌱 Currently Learning: Advanced control systems and machine learning applications in mechatronics.
-💡 Projects: Working on ....
-🌍 Goal: To innovate in technology and create sustainable solutions that impact people's lives.
-Feel free to explore my repositories and reach out for collaborations! 🙌
-<!---
-Starman26/Starman26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Mechatronics Engineering Student | Tecnológico de Monterrey**  
+
+I'm passionate about integrating **mechanics, electronics, and programming** to develop innovative solutions for real-world challenges. My interests lie in **robotics, artificial intelligence, IoT, and automation systems**, where I continuously seek to expand my expertise.  
+
+## 🔹 About Me  
+- **Interests**: Robotics, Data Science, IoT, and automation systems.  
+- **Technical Skills**: Proficient in **Python, C++, MATLAB, HTML, CSS**, and experienced in **embedded systems design**.  
+- **Currently Learning**: Advanced control systems and machine learning applications in mechatronics.  
+- **Projects**: Working on cutting-edge solutions in automation, AI-driven systems, and intelligent control.  
+- **Goal**: Innovate in technology to develop sustainable solutions that positively impact lives.  
+
+## 📬 Let's Connect  
+Feel free to explore my repositories, collaborate on projects, or reach out for discussions on emerging technologies.  
+📩 **Email**: [A01174639@tec.mx]  
+💼 **LinkedIn**: [www.linkedin.com/in/leonardoandradeflores1]  
+
+---
+
+Always eager to learn, build, and contribute! 🚀  
